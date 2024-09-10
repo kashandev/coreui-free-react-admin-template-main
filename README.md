@@ -1,153 +1,185 @@
-# Datta Able Free Bootstrap 5 Admin Template
+# CoreUI Free React Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=CoreUI%20-%20Free%React%204%20Admin%20Template%20&url=https://coreui.io&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
 
-Datta Able Free Dashboard Template made using Bootstrap 5 framework, It is a free lite version of [Datta Able Pro](https://codedthemes.com/item/datta-able-premium/) Dashboard Template that makes you fulfill your Dashboard needs.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
+[![npm package][npm-coreui-badge]][npm-coreui]
+[![NPM downloads][npm-coreui-download]][npm-coreui]
+[![@coreui react](https://img.shields.io/badge/@coreui%20-react-lightgrey.svg?style=flat-square)](https://github.com/coreui/react)
+[![npm package][npm-coreui-react-badge]][npm-coreui-react]
+[![NPM downloads][npm-coreui-react-download]][npm-coreui-react]  
 
-![Datta Able Free Admin Template Preview Image](https://org-public-assets.s3.us-west-2.amazonaws.com/Free-Version-Banners/GITHUB-FREE-BOOTSTRAP-REPO-Datta+able.jpg)
+[npm-coreui]: https://www.npmjs.com/package/@coreui/coreui
+[npm-coreui-badge]: https://img.shields.io/npm/v/@coreui/coreui.png?style=flat-square
+[npm-coreui-download]: https://img.shields.io/npm/dm/@coreui/coreui.svg?style=flat-square
+[npm-coreui-react]: https://www.npmjs.com/package/@coreui/react
+[npm-coreui-react-badge]: https://img.shields.io/npm/v/@coreui/react.png?style=flat-square
+[npm-coreui-react-download]: https://img.shields.io/npm/dm/@coreui/react.svg?style=flat-square
+[npm]: https://www.npmjs.com/package/@coreui/react
 
-Datta Able Admin Template comes with variety of components like Button, Badges, Tabs, Breadcrumb, Icons, Form elements, Table, Charts & Authentication pages.
+[![Bootstrap Admin Template](https://assets.coreui.io/products/coreui-free-bootstrap-admin-template-light-dark.webp)](https://coreui.io/product/free-react-admin-template/)
 
-The code structure is high flexible to use and modify. 
+CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The CoreUI Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – CoreUI covers them all!
 
-Its design adapt any screen size easily even if retina screens.
+## Table of Contents
 
-It is modern concept dashboard design with eye catchy colors. Wish you happy to use our product in your project.
+* [Versions](#versions)
+* [CoreUI PRO](#coreui-pro)
+* [CoreUI PRO React Admin Templates](#coreui-pro-react-admin-templates)
+* [Quick Start](#quick-start)
+* [Installation](#installation)
+* [Basic usage](#basic-usage)
+* [What's included](#whats-included)
+* [Documentation](#documentation)
+* [Versioning](#versioning)
+* [Creators](#creators)
+* [Community](#community)
+* [Support CoreUI Development](#support-coreui-development)
+* [Copyright and License](#copyright-and-license)
 
-## Free Version Preview & Download
+## Versions
 
-Check out live preview of Datta Able lite version & download it.
+* [CoreUI Free Bootstrap Admin Template](https://github.com/coreui/coreui-free-bootstrap-admin-template)
+* [CoreUI Free Angular Admin Template](https://github.com/coreui/coreui-free-angular-admin-template)
+* [CoreUI Free React.js Admin Template (Vite)](https://github.com/coreui/coreui-free-react-admin-template)
+* [CoreUI Free React.js Admin Template (Create React App)](https://github.com/coreui/coreui-free-react-admin-template-cra)
+* [CoreUI Free Vue.js Admin Template](https://github.com/coreui/coreui-free-vue-admin-template)
 
-#### Preview
+## CoreUI PRO
 
- - [Demo](http://lite.codedthemes.com/datta-able/bootstrap)
+* 💪  [CoreUI PRO Angular Admin Template](https://coreui.io/product/angular-dashboard-template/)
+* 💪  [CoreUI PRO Bootstrap Admin Template](https://coreui.io/product/bootstrap-dashboard-template/)
+* 💪  [CoreUI PRO Next.js Admin Template](https://coreui.io/product/next-js-dashboard-template/)
+* 💪  [CoreUI PRO React Admin Template](https://coreui.io/product/react-dashboard-template/)
+* 💪  [CoreUI PRO Vue Admin Template](https://coreui.io/product/vue-dashboard-template/)
 
-#### Download
+## CoreUI PRO React Admin Templates
 
- - [Download from Github](https://github.com/codedthemes/datta-able-bootstrap-dashboard.git)
- - [Download from CodedThemes]( https://codedthemes.com/item/datta-able-bootstrap-lite/) & receive important notification instantly in your maiL.
- 
- ## Premium Version Preview & Download
+| Default Theme | Light Theme |
+| --- | --- |
+| [![CoreUI PRO React Admin Template](https://coreui.io/images/templates/coreui_pro_default_light_dark.webp)](https://coreui.io/product/react-dashboard-template/?theme=default) | [![CoreUI PRO React Admin Template](https://coreui.io/images/templates/coreui_pro_light_light_dark.webp)](https://coreui.io/product/react-dashboard-template/?theme=light)|
 
-Datta Able Pro Admin Template is available to purchase. Visit its numerous demos and make your purchase decision.
-#### Preview
- - [Demo](https://codedthemes.com/demos/admin-templates/datta-able/bootstrap/default/)
+| Modern Theme | Bright Theme |
+| --- | --- |
+| [![CoreUI PRO React Admin Template](https://coreui.io/images/templates/coreui_pro_default_v3_light_dark.webp)](https://coreui.io/product/react-dashboard-template/?theme=modern) | [![CoreUI PRO React Admin Template](https://coreui.io/images/templates/coreui_pro_light_v3_light_dark.webp)](https://coreui.io/product/react-dashboard-template/?theme=bright)|
 
-#### Download
+## Quick Start
 
- - [Purchase from CodedThemes](https://codedthemes.com/item/datta-able-premium)
+- [Download the latest release](https://github.com/coreui/coreui-free-react-admin-template/archive/refs/heads/main.zip)
+- Clone the repo: `git clone https://github.com/coreui/coreui-free-react-admin-template.git`
 
-## Table of contents
+### Installation
 
- * [Getting Started](#getting-started)
- * [Online Documentation](#online-documentation)
- * [Build With](#build-with)
- * [Directory-structure](#directory-structure)
- * [RoadMap](#roadmap)
- * [Author](#author)
- * [Contributing](#contributing)
- * [Issues?](#issues)
- * [License](#license)
- * [Other Dashboard Products](#other-dashboard-products)
- * [Social Profiles](#social-profiles)
- 
-## Getting Started
-
-Clone from Github 
-```
-git clone https://github.com/codedthemes/datta-able-bootstrap-dashboard.git
-```
-*no other dependencies required to run the Datta Able Template*
-
-## Online Documentation
-
-Datta Able Lite version documentation cover in its Pro version documentation - check our [website.](https://codedthemes.gitbook.io/datta/v/datta-able-bootstrap/)
-
-## Build With
-
- - [Bootstrap 5](https://getbootstrap.com/)
- - [SASS](https://sass-lang.com/) - SCSS file not included in lite version v1.0
- 
-## Directory Structure
-
-```
-Datta-able/
-├── assets/
-│   ├── css/
-│   │   ├── style.css
-│   ├── fonts/
-│   │   ├── feather/css/feather.css
-│   │   ├── fontawesome/css/fontawesome-all.min.css
-│   │   ├── datta/datta-icon.css
-│   ├── images/
-│   │   ├── user/
-│   │   │   ├── avatar-1.jpg
-│   │   │   ├── avatar-2.jpg
-│   │   │   ├── ...-More
-│   │   ├── logo.png
-│   │   ├── ...-More
-│   ├── js/
-│   │   ├── pages/
-│   │   │   ├── chart-morris-custom.js
-│   │   │   ├── google-maps.js
-│   │   ├── vendor-all.min.js
-│   │   ├── pcoded.min.js
-│   ├── plugins/
-│   │   ├── jquery/
-│   │   │   ├── js/
-│   │   │   │   ├── jquery.min.js
-│   │   ├── bootstrap/
-│   │   │   ├── css/
-│   │   │   │   ├── bootstrap.min.css
-│   │   │   ├── js/
-│   │   │   │   ├── bootstrap.min.js
-│   │   ├── ...-More
-├── index.html
-├── ...- More
+``` bash
+$ npm install
 ```
 
-## RoadMap
+or
 
-We are continuously working in Datta Able Project and going to make it a awesome dashboard template via your support. Give us the ideas, suggestion for include more components, pages, plugins. Few of future release pages are
- 
-#### Layouts 
- - Horizontal version
- - Sidebar Image version
- - Introduce Live Customizer (i.e. only for demo)
+``` bash
+$ yarn install
+```
 
-#### Pages
- - Pricing
- - Login/Register pages version 2
- - User profile
- - Maintenance Pages like 404, Error Pages, Coming Soon 
+### Basic usage
 
-#### Basic & Advance Components
- - Alert, Cards, Progress, Modal
- - Datepicker, Notification, Slider
+``` bash
+# dev server with hot reload at http://localhost:3000
+$ npm start 
+```
 
-*All above pages already included in Pro version. We need your support to include those pages in lite version too.*
+or 
 
-## Author
+``` bash
+# dev server with hot reload at http://localhost:3000
+$ yarn start
+```
 
-Design and code is completely written by CodedThemes's design and development team. We are happy to welcome the contributors work for our all repositories.
+Navigate to [http://localhost:3000](http://localhost:3000). The app will automatically reload if you change any of the source files.
 
-## Issues
+#### Build
 
-Please generate Github issue if you found bug in any version. We are try to be responsive to resolve the issue.
+Run `build` to build the project. The build artifacts will be stored in the `build/` directory.
 
-## License
+```bash
+# build for production with minification
+$ npm run build
+```
 
- - Design and Code is Copyright &copy; [CodedThemes](https://www.codedthemes.com)
- - Licensed cover under [MIT](https://github.com/codedthemes/datta-able-bootstrap-dashboard/blob/master/LICENSE)
+or
 
-## Other Dashboard Products
+```bash
+# build for production with minification
+$ yarn build
+```
 
- - [Free Bootstrap 5 Admin Template](https://codedthemes.com/item/category/free-templates/free-bootstrap-admin-templates)
- - [Free React Dashboard Template](https://codedthemes.com/item/category/free-templates/free-react-admin-templates)
- - [Free Angular Dashboard Template](https://codedthemes.com/item/category/free-templates/free-angular-admin-templates)
- - [Premium Bootstrap & Angular Admin Template](https://codedthemes.com/item/category/templates/admin-templates/)
- 
-## Social Profiles
- - Dribbble [https://dribbble.com/codedthemes](https://dribbble.com/codedthemes)
- - Behance [https://www.behance.net/codedthemes](https://www.behance.net/codedthemes)
- - Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
- - Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
- - Instagram [https://www.instagram.com/codedthemes/](https://www.instagram.com/codedthemes/)
+## What's included
+
+Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
+
+```
+coreui-free-react-admin-template
+├── public/          # static files
+│   ├── favicon.ico
+│   └── manifest.json
+│
+├── src/             # project root
+│   ├── assets/      # images, icons, etc.
+│   ├── components/  # common components - header, footer, sidebar, etc.
+│   ├── layouts/     # layout containers
+│   ├── scss/        # scss styles
+│   ├── views/       # application views
+│   ├── _nav.js      # sidebar navigation config
+│   ├── App.js
+│   ├── index.js
+│   ├── routes.js    # routes config
+│   └── store.js     # template state example 
+│
+├── index.html       # html template
+├── ...
+├── package.json
+├── ...
+└── vite.config.mjs  # vite config
+```
+
+## Documentation
+
+The documentation for the CoreUI Admin Template is hosted at our website [CoreUI for React](https://coreui.io/react/docs/templates/installation/)
+
+## Versioning
+
+For transparency into our release cycle and in striving to maintain backward compatibility, CoreUI Free Admin Template is maintained under [the Semantic Versioning guidelines](http://semver.org/).
+
+See [the Releases section of our project](https://github.com/coreui/coreui-free-react-admin-template/releases) for changelogs for each release version.
+
+## Creators
+
+**Łukasz Holeczek**
+
+* <https://twitter.com/lukaszholeczek>
+* <https://github.com/mrholek>
+
+**Andrzej Kopański**
+
+* <https://github.com/xidedix>
+
+**CoreUI Team**
+
+* <https://twitter.com/core_ui>
+* <https://github.com/coreui>
+* <https://github.com/orgs/coreui/people>
+
+## Community
+
+Get updates on CoreUI's development and chat with the project maintainers and community members.
+
+- Follow [@core_ui on Twitter](https://twitter.com/core_ui).
+- Read and subscribe to [CoreUI Blog](https://coreui.ui/blog/).
+
+## Support CoreUI Development
+
+CoreUI is an MIT-licensed open source project and is completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by buying the [CoreUI PRO](https://coreui.io/pricing/?framework=react&src=github-coreui-free-react-admin-template) or by becoming a sponsor via [Open Collective](https://opencollective.com/coreui/).
+
+## Copyright and License
+
+copyright 2024 creativeLabs Łukasz Holeczek.   
+
+Code released under [the MIT license](https://github.com/coreui/coreui-free-react-admin-template/blob/main/LICENSE).
